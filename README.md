@@ -27,7 +27,7 @@ Please make sure to update tests as appropriate.
 ## Tests
 To run tests, run the following command: 
 ```
-n/a
+
 ```
 ## Questions
 Direct all questions regarding the app to design@ianjameswilson.com
