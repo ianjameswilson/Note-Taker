@@ -11,7 +11,11 @@ AS A user, I want to be able to write and save notes
 ## Installation
 To install neccessary dependancies, run the following command:
 ```
-npm install; npm stack; npm uuid
+npm install; 
+
+npm stack; 
+
+npm uuid;
 ```
 ## Usage 
 ```
